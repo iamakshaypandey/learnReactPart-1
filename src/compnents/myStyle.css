@@ -1,0 +1,9 @@
+/* we use a class inside a stlings js file using conditional formating */
+
+.primary{
+    color: orange;
+}
+
+.fx-size{
+    font-size: 5rem;
+}
